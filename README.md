@@ -27,9 +27,3 @@ Well...
 
 And well... that's pretty much it. Wait for more projects! 
 (Also, a portfolio website is coming soon, I just have to get off my lazy ass and make it.)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saturn-sepehr&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
